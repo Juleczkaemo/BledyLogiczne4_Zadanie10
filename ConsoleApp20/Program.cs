@@ -1,6 +1,6 @@
 ﻿class Program
 {
-    static void Main() 
+    static void Main() //program działą poprawnie
     {
         int dzien = 15, miesiac = 11, rok = 2024;
         DateTime data = new DateTime(rok, miesiac, dzien);
